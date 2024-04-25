@@ -1,0 +1,21 @@
+body {
+    background-color: #003C43;
+    color:#77B0AA;
+    text-align:center;
+}
+h1 {
+    font-family:"Lobster";
+    font-size:8rem;
+    padding:30px 0 30px;
+}
+p {
+    font-family: "Indie Flower", cursive;
+    font-size:2rem;
+} 
+footer{
+    font-family: "Indie Flower", cursive;
+    padding:7% 15%;
+}
+img{
+    width:30%;
+}
